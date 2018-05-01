@@ -1,0 +1,461 @@
+[
+  {
+    "surah_titel": "الفاتحة",
+    "url": "https://server6.mp3quran.net/kurdi/001.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/1.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "البقرة",
+    "url": "https://server6.mp3quran.net/kurdi/002.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/2.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الحج",
+    "url": "https://server6.mp3quran.net/kurdi/022.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/22.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "المؤمنون",
+    "url": "https://server6.mp3quran.net/kurdi/023.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/23.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "العنكبوت",
+    "url": "https://server6.mp3quran.net/kurdi/029.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/29.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "لقمان",
+    "url": "https://server6.mp3quran.net/kurdi/031.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/31.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "السجدة",
+    "url": "https://server6.mp3quran.net/kurdi/032.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/32.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "يس",
+    "url": "https://server6.mp3quran.net/kurdi/036.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/36.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "محمد",
+    "url": "https://server6.mp3quran.net/kurdi/047.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/47.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الذاريات",
+    "url": "https://server6.mp3quran.net/kurdi/051.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/51.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الطور",
+    "url": "https://server6.mp3quran.net/kurdi/052.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/52.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "النجم",
+    "url": "https://server6.mp3quran.net/kurdi/053.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/53.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "القمر",
+    "url": "https://server6.mp3quran.net/kurdi/054.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/54.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الرحمن",
+    "url": "https://server6.mp3quran.net/kurdi/055.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/55.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الواقعة",
+    "url": "https://server6.mp3quran.net/kurdi/056.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/56.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الحديد",
+    "url": "https://server6.mp3quran.net/kurdi/057.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/57.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الجمعة",
+    "url": "https://server6.mp3quran.net/kurdi/062.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/62.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "المنافقون",
+    "url": "https://server6.mp3quran.net/kurdi/063.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/63.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "التغابن",
+    "url": "https://server6.mp3quran.net/kurdi/064.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/64.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الطلاق",
+    "url": "https://server6.mp3quran.net/kurdi/065.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/65.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "التحريم",
+    "url": "https://server6.mp3quran.net/kurdi/066.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/66.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الملك",
+    "url": "https://server6.mp3quran.net/kurdi/067.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/67.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "القلم",
+    "url": "https://server6.mp3quran.net/kurdi/068.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/68.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الحاقة",
+    "url": "https://server6.mp3quran.net/kurdi/069.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/69.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "المعارج",
+    "url": "https://server6.mp3quran.net/kurdi/070.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/70.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "نوح",
+    "url": "https://server6.mp3quran.net/kurdi/071.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/71.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الانفطار",
+    "url": "https://server6.mp3quran.net/kurdi/082.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/82.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "البروج",
+    "url": "https://server6.mp3quran.net/kurdi/085.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/85.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الأعلى",
+    "url": "https://server6.mp3quran.net/kurdi/087.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/87.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الليل",
+    "url": "https://server6.mp3quran.net/kurdi/092.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/92.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الضحى",
+    "url": "https://server6.mp3quran.net/kurdi/093.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/93.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الشرح",
+    "url": "https://server6.mp3quran.net/kurdi/094.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/94.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "التين",
+    "url": "https://server6.mp3quran.net/kurdi/095.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/95.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "العلق",
+    "url": "https://server6.mp3quran.net/kurdi/096.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/96.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "البينة",
+    "url": "https://server6.mp3quran.net/kurdi/098.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/98.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الزلزلة",
+    "url": "https://server6.mp3quran.net/kurdi/099.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/99.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "العاديات",
+    "url": "https://server6.mp3quran.net/kurdi/100.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/100.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "القارعة",
+    "url": "https://server6.mp3quran.net/kurdi/101.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/101.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "التكاثر",
+    "url": "https://server6.mp3quran.net/kurdi/102.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/102.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "العصر",
+    "url": "https://server6.mp3quran.net/kurdi/103.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/103.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الهمزة",
+    "url": "https://server6.mp3quran.net/kurdi/104.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/104.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الفيل",
+    "url": "https://server6.mp3quran.net/kurdi/105.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/105.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "قريش",
+    "url": "https://server6.mp3quran.net/kurdi/106.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/106.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الماعون",
+    "url": "https://server6.mp3quran.net/kurdi/107.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/107.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الكوثر",
+    "url": "https://server6.mp3quran.net/kurdi/108.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/108.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الكافرون",
+    "url": "https://server6.mp3quran.net/kurdi/109.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/109.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "النصر",
+    "url": "https://server6.mp3quran.net/kurdi/110.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/110.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "المسد",
+    "url": "https://server6.mp3quran.net/kurdi/111.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/111.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الإخلاص",
+    "url": "https://server6.mp3quran.net/kurdi/112.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/112.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الفلق",
+    "url": "https://server6.mp3quran.net/kurdi/113.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/113.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  },
+  {
+    "surah_titel": "الناس",
+    "url": "https://server6.mp3quran.net/kurdi/114.mp3",
+    "mokria_titel": "رعد محمد الكردي",
+    "mokria_image": "https://f.top4top.net/p_851djs2j1.png",
+    "play_image": "https://alqabas.com/wp-content/uploads/2016/06/maxresdefault1-3.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/114.json",
+    "nemea": "qur.qurankarimmetal.rardkordyi"
+  }
+]
