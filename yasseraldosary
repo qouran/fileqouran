@@ -1,0 +1,1028 @@
+[
+  {
+    "surah_titel": "الفاتحة",
+    "url": "https://server11.mp3quran.net/yasser/001.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/1.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "البقرة",
+    "url": "https://server11.mp3quran.net/yasser/002.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/2.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "آل عمران",
+    "url": "https://server11.mp3quran.net/yasser/003.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/3.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "النساء",
+    "url": "https://server11.mp3quran.net/yasser/004.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/4.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "المائدة",
+    "url": "https://server11.mp3quran.net/yasser/005.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/5.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الأنعام",
+    "url": "https://server11.mp3quran.net/yasser/006.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/6.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الأعراف",
+    "url": "https://server11.mp3quran.net/yasser/007.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/7.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الأنفال",
+    "url": "https://server11.mp3quran.net/yasser/008.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/8.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "التوبة",
+    "url": "https://server11.mp3quran.net/yasser/009.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/9.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "يونس",
+    "url": "https://server11.mp3quran.net/yasser/010.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/10.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "هود",
+    "url": "https://server11.mp3quran.net/yasser/011.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/11.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "يوسف",
+    "url": "https://server11.mp3quran.net/yasser/012.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/12.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الرعد",
+    "url": "https://server11.mp3quran.net/yasser/013.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/13.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "إبراهيم",
+    "url": "https://server11.mp3quran.net/yasser/014.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/14.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الحجر",
+    "url": "https://server11.mp3quran.net/yasser/015.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/15.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "النحل",
+    "url": "https://server11.mp3quran.net/yasser/016.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/16.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الإسراء",
+    "url": "https://server11.mp3quran.net/yasser/017.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/17.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الكهف",
+    "url": "https://server11.mp3quran.net/yasser/018.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/18.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "مريم",
+    "url": "https://server11.mp3quran.net/yasser/019.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/19.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "طه",
+    "url": "https://server11.mp3quran.net/yasser/020.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/20.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الأنبياء",
+    "url": "https://server11.mp3quran.net/yasser/021.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/21.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الحج",
+    "url": "https://server11.mp3quran.net/yasser/022.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/22.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "المؤمنون",
+    "url": "https://server11.mp3quran.net/yasser/023.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/23.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "النور",
+    "url": "https://server11.mp3quran.net/yasser/024.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/24.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الفرقان",
+    "url": "https://server11.mp3quran.net/yasser/025.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/25.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الشعراء",
+    "url": "https://server11.mp3quran.net/yasser/026.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/26.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "النمل",
+    "url": "https://server11.mp3quran.net/yasser/027.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/27.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "القصص",
+    "url": "https://server11.mp3quran.net/yasser/028.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/28.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "العنكبوت",
+    "url": "https://server11.mp3quran.net/yasser/029.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/29.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الروم",
+    "url": "https://server11.mp3quran.net/yasser/030.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/30.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "لقمان",
+    "url": "https://server11.mp3quran.net/yasser/031.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/31.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "السجدة",
+    "url": "https://server11.mp3quran.net/yasser/032.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/32.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الأحزاب",
+    "url": "https://server11.mp3quran.net/yasser/033.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/33.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "سبأ",
+    "url": "https://server11.mp3quran.net/yasser/034.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/34.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "فاطر",
+    "url": "https://server11.mp3quran.net/yasser/035.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/35.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "يس",
+    "url": "https://server11.mp3quran.net/yasser/036.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/36.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الصافات",
+    "url": "https://server11.mp3quran.net/yasser/037.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/37.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "ص",
+    "url": "https://server11.mp3quran.net/yasser/038.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/38.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الزمر",
+    "url": "https://server11.mp3quran.net/yasser/039.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/39.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "غافر",
+    "url": "https://server11.mp3quran.net/yasser/040.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/40.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "فصلت",
+    "url": "https://server11.mp3quran.net/yasser/041.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/41.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الشورى",
+    "url": "https://server11.mp3quran.net/yasser/042.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/42.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الزخرف",
+    "url": "https://server11.mp3quran.net/yasser/043.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/43.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الدخان",
+    "url": "https://server11.mp3quran.net/yasser/044.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/44.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الجاثية",
+    "url": "https://server11.mp3quran.net/yasser/045.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/45.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الأحقاف",
+    "url": "https://server11.mp3quran.net/yasser/046.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/46.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "محمد",
+    "url": "https://server11.mp3quran.net/yasser/047.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/47.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الفتح",
+    "url": "https://server11.mp3quran.net/yasser/048.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/48.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الحجرات",
+    "url": "https://server11.mp3quran.net/yasser/049.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/49.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "ق",
+    "url": "https://server11.mp3quran.net/yasser/050.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/50.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الذاريات",
+    "url": "https://server11.mp3quran.net/yasser/051.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/51.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الطور",
+    "url": "https://server11.mp3quran.net/yasser/052.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/52.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "النجم",
+    "url": "https://server11.mp3quran.net/yasser/053.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/53.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "القمر",
+    "url": "https://server11.mp3quran.net/yasser/054.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/54.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الرحمن",
+    "url": "https://server11.mp3quran.net/yasser/055.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/55.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الواقعة",
+    "url": "https://server11.mp3quran.net/yasser/056.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/56.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الحديد",
+    "url": "https://server11.mp3quran.net/yasser/057.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/57.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "المجادلة",
+    "url": "https://server11.mp3quran.net/yasser/058.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/58.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الحشر",
+    "url": "https://server11.mp3quran.net/yasser/059.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/59.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الممتحنة",
+    "url": "https://server11.mp3quran.net/yasser/060.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/60.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الصف",
+    "url": "https://server11.mp3quran.net/yasser/061.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/61.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الجمعة",
+    "url": "https://server11.mp3quran.net/yasser/062.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/62.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "المنافقون",
+    "url": "https://server11.mp3quran.net/yasser/063.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/63.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "التغابن",
+    "url": "https://server11.mp3quran.net/yasser/064.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/64.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الطلاق",
+    "url": "https://server11.mp3quran.net/yasser/065.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/65.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "التحريم",
+    "url": "https://server11.mp3quran.net/yasser/066.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/66.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الملك",
+    "url": "https://server11.mp3quran.net/yasser/067.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/67.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "القلم",
+    "url": "https://server11.mp3quran.net/yasser/068.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/68.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الحاقة",
+    "url": "https://server11.mp3quran.net/yasser/069.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/69.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "المعارج",
+    "url": "https://server11.mp3quran.net/yasser/070.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/70.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "نوح",
+    "url": "https://server11.mp3quran.net/yasser/071.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/71.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الجن",
+    "url": "https://server11.mp3quran.net/yasser/072.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/72.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "المزمل",
+    "url": "https://server11.mp3quran.net/yasser/073.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/73.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "المدثر",
+    "url": "https://server11.mp3quran.net/yasser/074.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/74.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "القيامة",
+    "url": "https://server11.mp3quran.net/yasser/075.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/75.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الإنسان",
+    "url": "https://server11.mp3quran.net/yasser/076.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/76.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "المرسلات",
+    "url": "https://server11.mp3quran.net/yasser/077.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/77.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "النبأ",
+    "url": "https://server11.mp3quran.net/yasser/078.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/78.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "النازعات",
+    "url": "https://server11.mp3quran.net/yasser/079.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/79.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "عبس",
+    "url": "https://server11.mp3quran.net/yasser/080.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/80.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "التكوير",
+    "url": "https://server11.mp3quran.net/yasser/081.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/81.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الانفطار",
+    "url": "https://server11.mp3quran.net/yasser/082.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/82.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "المطففين",
+    "url": "https://server11.mp3quran.net/yasser/083.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/83.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الانشقاق",
+    "url": "https://server11.mp3quran.net/yasser/084.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/84.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "البروج",
+    "url": "https://server11.mp3quran.net/yasser/085.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/85.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الطارق",
+    "url": "https://server11.mp3quran.net/yasser/086.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/86.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الأعلى",
+    "url": "https://server11.mp3quran.net/yasser/087.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/87.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الغاشية",
+    "url": "https://server11.mp3quran.net/yasser/088.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/88.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الفجر",
+    "url": "https://server11.mp3quran.net/yasser/089.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/89.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "البلد",
+    "url": "https://server11.mp3quran.net/yasser/090.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/90.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الشمس",
+    "url": "https://server11.mp3quran.net/yasser/091.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/91.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الليل",
+    "url": "https://server11.mp3quran.net/yasser/092.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/92.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الضحى",
+    "url": "https://server11.mp3quran.net/yasser/093.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/93.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الشرح",
+    "url": "https://server11.mp3quran.net/yasser/094.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/94.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "التين",
+    "url": "https://server11.mp3quran.net/yasser/095.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/95.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "العلق",
+    "url": "https://server11.mp3quran.net/yasser/096.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/96.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "القدر",
+    "url": "https://server11.mp3quran.net/yasser/097.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/97.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "البينة",
+    "url": "https://server11.mp3quran.net/yasser/098.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/98.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الزلزلة",
+    "url": "https://server11.mp3quran.net/yasser/099.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/99.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "العاديات",
+    "url": "https://server11.mp3quran.net/yasser/100.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/100.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "القارعة",
+    "url": "https://server11.mp3quran.net/yasser/101.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/101.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "التكاثر",
+    "url": "https://server11.mp3quran.net/yasser/102.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/102.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "العصر",
+    "url": "https://server11.mp3quran.net/yasser/103.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/103.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الهمزة",
+    "url": "https://server11.mp3quran.net/yasser/104.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/104.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الفيل",
+    "url": "https://server11.mp3quran.net/yasser/105.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/105.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "قريش",
+    "url": "https://server11.mp3quran.net/yasser/106.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/106.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الماعون",
+    "url": "https://server11.mp3quran.net/yasser/107.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/107.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الكوثر",
+    "url": "https://server11.mp3quran.net/yasser/108.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/108.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الكافرون",
+    "url": "https://server11.mp3quran.net/yasser/109.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/109.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "النصر",
+    "url": "https://server11.mp3quran.net/yasser/110.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/110.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "المسد",
+    "url": "https://server11.mp3quran.net/yasser/111.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/111.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الإخلاص",
+    "url": "https://server11.mp3quran.net/yasser/112.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/112.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الفلق",
+    "url": "https://server11.mp3quran.net/yasser/113.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/113.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  },
+  {
+    "surah_titel": "الناس",
+    "url": "https://server11.mp3quran.net/yasser/114.mp3",
+    "mokria_titel": "ياسر الدوسري",
+    "mokria_image": "https://i.ytimg.com/vi/tDOfLcjSgQ0/maxresdefault.jpg",
+    "play_image": "https://i.ytimg.com/vi/w_-bXBefQR4/maxresdefault.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/114.json",
+    "nemea": "qur.qurankarimmetal.yasseraldosary"
+  }
+]
