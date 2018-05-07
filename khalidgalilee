@@ -1,0 +1,75 @@
+[
+  {
+    "surah_titel": "الفاتحة",
+    "url": "https://server10.mp3quran.net/jleel/001.mp3",
+    "mokria_titel": "خالد الجليل",
+    "mokria_image": "http://ar.assabile.com/media/person/200x256/khalid-al-jalil.jpg",
+    "play_image": "https://4.bp.blogspot.com/-Ub4s--3mt5M/WAimf-YeYNI/AAAAAAAAe0w/lJyVR2pFQPwFaFsJrase3F-wzCCs_HQLACLcB/s1600/4956352_max.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/1.json",
+    "nemea": "qur.qurankarimmetal.khalidgalilee"
+  },
+  {
+    "surah_titel": "الأنفال",
+    "url": "https://server10.mp3quran.net/jleel/008.mp3",
+    "mokria_titel": "خالد الجليل",
+    "mokria_image": "http://ar.assabile.com/media/person/200x256/khalid-al-jalil.jpg",
+    "play_image": "https://4.bp.blogspot.com/-Ub4s--3mt5M/WAimf-YeYNI/AAAAAAAAe0w/lJyVR2pFQPwFaFsJrase3F-wzCCs_HQLACLcB/s1600/4956352_max.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/8.json",
+    "nemea": "qur.qurankarimmetal.khalidgalilee"
+  },
+  {
+    "surah_titel": "التوبة",
+    "url": "https://server10.mp3quran.net/jleel/009.mp3",
+    "mokria_titel": "خالد الجليل",
+    "mokria_image": "http://ar.assabile.com/media/person/200x256/khalid-al-jalil.jpg",
+    "play_image": "https://4.bp.blogspot.com/-Ub4s--3mt5M/WAimf-YeYNI/AAAAAAAAe0w/lJyVR2pFQPwFaFsJrase3F-wzCCs_HQLACLcB/s1600/4956352_max.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/9.json",
+    "nemea": "qur.qurankarimmetal.khalidgalilee"
+  },
+  {
+    "surah_titel": "يوسف",
+    "url": "https://server10.mp3quran.net/jleel/012.mp3",
+    "mokria_titel": "خالد الجليل",
+    "mokria_image": "http://ar.assabile.com/media/person/200x256/khalid-al-jalil.jpg",
+    "play_image": "https://4.bp.blogspot.com/-Ub4s--3mt5M/WAimf-YeYNI/AAAAAAAAe0w/lJyVR2pFQPwFaFsJrase3F-wzCCs_HQLACLcB/s1600/4956352_max.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/.json",
+    "nemea": "qur.qurankarimmetal.khalidgalilee"
+  },
+  {
+    "surah_titel": "إبراهيم",
+    "url": "https://server10.mp3quran.net/jleel/014.mp3",
+    "mokria_titel": "خالد الجليل",
+    "mokria_image": "http://ar.assabile.com/media/person/200x256/khalid-al-jalil.jpg",
+    "play_image": "https://4.bp.blogspot.com/-Ub4s--3mt5M/WAimf-YeYNI/AAAAAAAAe0w/lJyVR2pFQPwFaFsJrase3F-wzCCs_HQLACLcB/s1600/4956352_max.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/14.json",
+    "nemea": "qur.qurankarimmetal.khalidgalilee"
+  },
+  {
+    "surah_titel": "الحجر",
+    "url": "https://server10.mp3quran.net/jleel/015.mp3",
+    "mokria_titel": "خالد الجليل",
+    "mokria_image": "http://ar.assabile.com/media/person/200x256/khalid-al-jalil.jpg",
+    "play_image": "https://4.bp.blogspot.com/-Ub4s--3mt5M/WAimf-YeYNI/AAAAAAAAe0w/lJyVR2pFQPwFaFsJrase3F-wzCCs_HQLACLcB/s1600/4956352_max.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/15.json",
+    "nemea": "qur.qurankarimmetal.khalidgalilee"
+  },
+  {
+    "surah_titel": "النحل",
+    "url": "https://server10.mp3quran.net/jleel/016.mp3",
+    "mokria_titel": "خالد الجليل",
+    "mokria_image": "http://ar.assabile.com/media/person/200x256/khalid-al-jalil.jpg",
+    "play_image": "https://4.bp.blogspot.com/-Ub4s--3mt5M/WAimf-YeYNI/AAAAAAAAe0w/lJyVR2pFQPwFaFsJrase3F-wzCCs_HQLACLcB/s1600/4956352_max.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/16.json",
+    "nemea": "qur.qurankarimmetal.khalidgalilee"
+  },
+  {
+    "surah_titel": "النّمل",
+    "url": "https://server10.mp3quran.net/jleel/027.mp3",
+    "mokria_titel": "خالد الجليل",
+    "mokria_image": "http://ar.assabile.com/media/person/200x256/khalid-al-jalil.jpg",
+    "play_image": "https://4.bp.blogspot.com/-Ub4s--3mt5M/WAimf-YeYNI/AAAAAAAAe0w/lJyVR2pFQPwFaFsJrase3F-wzCCs_HQLACLcB/s1600/4956352_max.jpg",
+    "surah_text": "https://raw.githubusercontent.com/qouran/beidnilah/master/27.json",
+    "nemea": "qur.qurankarimmetal.khalidgalilee"
+  },
+
+]
