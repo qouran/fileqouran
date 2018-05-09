@@ -1,0 +1,685 @@
+{
+  "Radios": [
+    {
+      "Name": "الإذاعة العامة - اذاعة متنوعة لمختلف",
+      "URL": "http://live.mp3quran.net:8006/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "لمختلف القراء",
+      "URL": "http://live.mp3quran.net:9992/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "سورة البقرة - لعدد من القراء",
+      "URL": "http://live.mp3quran.net:9722/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة الرقية الشرعية",
+      "URL": "http://live.mp3quran.net:9936/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة الفتاوى",
+      "URL": "http://live.mp3quran.net:8014/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ ماهر المعيقلي",
+      "URL": "http://live.mp3quran.net:9996/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالرحمن الماجد",
+      "URL": "http://live.mp3quran.net:9726/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ أحمد العجمي",
+      "URL": "http://live.mp3quran.net:9990/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالرحمن السديس",
+      "URL": "http://live.mp3quran.net:9988/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ سعود الشريم",
+      "URL": "http://live.mp3quran.net:9986/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ ياسر الدوسري",
+      "URL": "http://live.mp3quran.net:9984/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ مشاري العفاسي ",
+      "URL": "http://live.mp3quran.net:9982/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالباسط عبدالصمد",
+      "URL": "http://live.mp3quran.net:9980/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": " إذاعة القارئ ناصر",
+      "URL": "http://live.mp3quran.net:9994/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد صديق المنشاوي",
+      "URL": "http://live.mp3quran.net:9978/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ سعد الغامدي",
+      "URL": "http://live.mp3quran.net:9976/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالباسط عبدالصمد - المصحف المجود",
+      "URL": "http://live.mp3quran.net:9974/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ خالد القحطاني",
+      "URL": "http://live.mp3quran.net:9970/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ فارس عباد",
+      "URL": "http://live.mp3quran.net:9972/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ إدريس أبكر",
+      "URL": "http://live.mp3quran.net:9968/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ شيخ أبو بكر الشاطري",
+      "URL": "http://live.mp3quran.net:9966/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ علي جابر",
+      "URL": "http://live.mp3quran.net:9964/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ",
+      "URL": "http://live.mp3quran.net:9962/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ",
+      "URL": "http://live.mp3quran.net:9958/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد أيوب",
+      "URL": "http://live.mp3quran.net:9960/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالباسط عبدالصمد - ورش عن نافع - ",
+      "URL": "http://live.mp3quran.net:9956/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالله بصفر",
+      "URL": "http://live.mp3quran.net:9954/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ صابر عبدالحكم",
+      "URL": "http://live.mp3quran.net:9952/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ جمعان العصيمي",
+      "URL": "http://live.mp3quran.net:9950/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالله خياط",
+      "URL": "http://live.mp3quran.net:9948/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ ابراهيم الأخضر",
+      "URL": "http://live.mp3quran.net:9946/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ ",
+      "URL": "http://live.mp3quran.net:9944/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ احمد الحواشي",
+      "URL": "http://live.mp3quran.net:9928/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ احمد الطرابلسي",
+      "URL": "http://live.mp3quran.net:9926/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "احمد الطرابلسي(قالون عن نافع)إذاعة القارئ",
+      "URL": "http://live.mp3quran.net:9924/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ أحمد صابر",
+      "URL": "http://live.mp3quran.net:9922/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ أحمد عامر",
+      "URL": "http://live.mp3quran.net:9920/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ أكرم العلاقمي",
+      "URL": "http://live.mp3quran.net:9918/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ الدوكالي محمد العالم",
+      "URL": "http://live.mp3quran.net:9916/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ الزين محمد أحمد",
+      "URL": "http://live.mp3quran.net:9914/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ العيون الكوشي(ورش عن نافع)",
+      "URL": "http://live.mp3quran.net:9912/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ الفاتح محمد الزبير (الدوري عن ابي عمرو)",
+      "URL": "http://live.mp3quran.net:9910/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ القاري ياسين (ورش عن نافع)",
+      "URL": "http://live.mp3quran.net:9908/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ توفيق الصايغ",
+      "URL": "http://live.mp3quran.net:9906/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ أحمد نعينع",
+      "URL": "http://live.mp3quran.net:9904/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ ابراهيم الدوسري(ورش عن نافع)",
+      "URL": "http://live.mp3quran.net:9902/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ جمال شاكر عبدالله ",
+      "URL": "http://live.mp3quran.net:9900/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ حاتم فريد الواعر",
+      "URL": "http://live.mp3quran.net:9898/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ خالد المهنا",
+      "URL": "http://live.mp3quran.net:9896/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ خالد عبدالكافي",
+      "URL": "http://live.mp3quran.net:9894/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ خليفة الطنيجي",
+      "URL": "http://live.mp3quran.net:9892/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ زكي داغستاني ",
+      "URL": "http://live.mp3quran.net:9890/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ سهل ياسين",
+      "URL": "http://live.mp3quran.net:9888/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ سيد رمضان",
+      "URL": "http://live.mp3quran.net:9886/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ شيرزاد عبدالرحمن طاهر",
+      "URL": "http://live.mp3quran.net:9884/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ صلاح البدير",
+      "URL": "http://live.mp3quran.net:9882/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ صلاح الهاشم",
+      "URL": "http://live.mp3quran.net:9880/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ صلاح بوخاطر",
+      "URL": "http://live.mp3quran.net:9878/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ طارق عبدالغني دعوب",
+      "URL": "http://live.mp3quran.net:9876/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عادل الكلباني",
+      "URL": "http://live.mp3quran.net:9874/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عادل ريان",
+      "URL": "http://live.mp3quran.net:9872/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالباري الثبيتي",
+      "URL": "http://live.mp3quran.net:9870/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالبارئ محمد",
+      "URL": "http://live.mp3quran.net:9868/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالرشيد الصوفي-السوسي عن أبي عمرو",
+      "URL": "http://live.mp3quran.net:9866/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالرشيد الصوفي -خلف عن حمزه",
+      "URL": "http://live.mp3quran.net:9864/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالعزيز الأحمد",
+      "URL": "http://live.mp3quran.net:9862/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالله الكندري",
+      "URL": "http://live.mp3quran.net:9860/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالله المطرود",
+      "URL": "http://live.mp3quran.net:9858/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالمحسن الحارثي",
+      "URL": "http://live.mp3quran.net:9856/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالمحسن العبيكان",
+      "URL": "http://live.mp3quran.net:9854/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالمحسن القاسم",
+      "URL": "http://live.mp3quran.net:9852/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالهادي أحمد كناكري ",
+      "URL": "http://live.mp3quran.net:9850/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عبدالودود حنيف",
+      "URL": "http://live.mp3quran.net:9848/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ علي الحذيفي -قالون عن نافع",
+      "URL": "http://live.mp3quran.net:9846/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ علي الحذيفي",
+      "URL": "http://live.mp3quran.net:9844/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ علي حجاج السويسي",
+      "URL": "http://live.mp3quran.net:9842/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عماد زهير حافظ",
+      "URL": "http://live.mp3quran.net:9840/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ عمر القزابري",
+      "URL": "http://live.mp3quran.net:9838/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ ماهر شخاشيرو",
+      "URL": "http://live.mp3quran.net:9836/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محم الطبلاوي",
+      "URL": "http://live.mp3quran.net:9834/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد اللحيدان",
+      "URL": "http://live.mp3quran.net:9832/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد رشاد الشريف",
+      "URL": "http://live.mp3quran.net:9830/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد صالح عالم شاه",
+      "URL": "http://live.mp3quran.net:9828/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد صديق المنشاوي -المصحف المجود ",
+      "URL": "http://live.mp3quran.net:9826/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد العبدالكريم ",
+      "URL": "http://live.mp3quran.net:9824/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد العبدالكريم -ورش عن نافع من طريق أبي بكر الأصبهاني ",
+      "URL": "http://live.mp3quran.net:9822/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد عثمان خان( من الهند )",
+      "URL": "http://live.mp3quran.net:9820/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمود الرفاعي",
+      "URL": "http://live.mp3quran.net:9818/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد عبدالحكيم سعيد العبدالله- الدوري عن الكسائي",
+      "URL": "http://live.mp3quran.net:9816/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمد عبدالحكيم سعيد العبدالله - البزي وقنبل عن ابن كثير",
+      "URL": "http://live.mp3quran.net:9814/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمود الشيمي-الدوري عن الكسائي",
+      "URL": "http://live.mp3quran.net:9812/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمود علي البنا-المصحف المجود",
+      "URL": "http://live.mp3quran.net:9810/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمود علي البنا- حفص عن عاصم",
+      "URL": "http://live.mp3quran.net:9808/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمود خليل الحصري - المصحف المجود ",
+      "URL": "http://live.mp3quran.net:9806/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ محمود خليل الحصري-ورش عن نافع",
+      "URL": "http://live.mp3quran.net:9804/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ معيض الحارثي",
+      "URL": "http://live.mp3quran.net:9802/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ مصطفى اسماعيل",
+      "URL": "http://live.mp3quran.net:9800/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ مصطفى اللاهوني",
+      "URL": "http://live.mp3quran.net:9798/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ مصطفى رعد العزاوي",
+      "URL": "http://live.mp3quran.net:9796/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ مفتاح السلطني-ابن ذكوان عن ابن عامر",
+      "URL": "http://live.mp3quran.net:9794/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ مفتاح السلطني",
+      "URL": "http://live.mp3quran.net:9792/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ مفتاح السلطني- الدوري عن أبي عمرو",
+      "URL": "http://live.mp3quran.net:9790/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ مفتاح السلطني-الدوري عن الكسائي",
+      "URL": "http://live.mp3quran.net:9788/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ موسى بلال",
+      "URL": "http://live.mp3quran.net:9786/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ نبيل الرفاعي",
+      "URL": "http://live.mp3quran.net:9784/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ نعمة الحسان",
+      "URL": "http://live.mp3quran.net:9782/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ هاني الرفاعي",
+      "URL": "http://live.mp3quran.net:9780/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ وليد النائحي- قالون عن نافع من طريق أبي نشيط",
+      "URL": "http://live.mp3quran.net:9778/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ ياسر القرشي",
+      "URL": "http://live.mp3quran.net:9776/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "ياسر المزروعي - قراءة يعقوب الحضرمي بروايتي رويس وروح إذاعة القارئ",
+      "URL": "http://live.mp3quran.net:9774/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ يحيى حوا",
+      "URL": "http://live.mp3quran.net:9772/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ يوسف الشويعي",
+      "URL": "http://live.mp3quran.net:9770/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    },
+    {
+      "Name": "إذاعة القارئ يوسف بن نوح أحمد",
+      "URL": "http://live.mp3quran.net:9768/;",
+      "image": "http://cdn2.tstatic.net/belitung/foto/bank/images/kabah-di-mekah_20160822_085614.jpg",
+      "neme": "qur.qurankarimmetal.idaratallqouran"
+    }
+  ]
+}
+
+ 
+
